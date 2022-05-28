@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>nailPolish1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 5}, {142, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{142, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 254}, {142, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish1_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 29}, {142, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{142, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{586, 2}, {142, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish2_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {144, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 256}, {144, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish2_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 30}, {144, 224}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{144, 224}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 2}, {144, 224}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish3_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 4}, {144, 252}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 252}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {144, 252}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish3_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 30}, {144, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSize</key>
+			<string>{144, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{440, 2}, {144, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish4_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 5}, {142, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{142, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 254}, {142, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish4_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 29}, {142, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{142, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 230}, {142, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish5_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {144, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 2}, {144, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish5_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 29}, {144, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{144, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 230}, {144, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish6_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 6}, {144, 248}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 248}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 2}, {144, 248}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>nailPolish6_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 29}, {144, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{144, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 260}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{436, 252}, {144, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

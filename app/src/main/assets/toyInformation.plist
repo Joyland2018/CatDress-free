@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>toy13</key>
+	<dict/>
+	<key>toy14</key>
+	<dict/>
+	<key>toy17</key>
+	<dict>
+		<key>first</key>
+		<dict>
+			<key>x</key>
+			<string>244</string>
+			<key>y</key>
+			<string>388</string>
+		</dict>
+		<key>second</key>
+		<dict>
+			<key>x</key>
+			<string>573</string>
+			<key>y</key>
+			<string>462</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

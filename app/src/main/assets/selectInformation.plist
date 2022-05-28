@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>select1</key>
+	<string>6</string>
+	<key>select2</key>
+	<string>1</string>
+	<key>select3</key>
+	<string>13</string>
+	<key>select4</key>
+	<string>4</string>
+	<key>select5</key>
+	<string>5</string>
+	<key>select6</key>
+	<string>9</string>
+	<key>select7</key>
+	<string>7</string>
+	<key>select8</key>
+	<string>8</string>
+	<key>select9</key>
+	<string>2</string>
+	<key>select10</key>
+	<string>10</string>
+	<key>select11</key>
+	<string>11</string>
+	<key>select12</key>
+	<string>12</string>
+	<key>select13</key>
+	<string>3</string>
+</dict>
+</plist>

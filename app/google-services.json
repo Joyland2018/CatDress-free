@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687278105659",
+    "firebase_url": "https://cat-dress.firebaseio.com",
+    "project_id": "cat-dress",
+    "storage_bucket": "cat-dress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687278105659:android:b3058c2a1a56d15298281e",
+        "android_client_info": {
+          "package_name": "cat.game.collector.kitty.free.pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687278105659-ptouggkrce4dj250t8ivjm7nj9etns4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOsw7obtJSlVng_J0S1wU0wJT0Nx5h5HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687278105659-ptouggkrce4dj250t8ivjm7nj9etns4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

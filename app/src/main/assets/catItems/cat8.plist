@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mao8_tou.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 2}, {291, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{291, 219}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 221}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {291, 219}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 400}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_1_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {148, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{148, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 82}, {148, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_1_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 7}, {148, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{148, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{813, 76}, {148, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_2_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 320}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_2_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{663, 156}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_2_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{360, 108}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_3_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{663, 76}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_3_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 2}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanjing_3_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 160}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_1_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {216, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{216, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 2}, {216, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_2_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 30}, {178, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -15}</string>
+			<key>spriteSize</key>
+			<string>{178, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 237}, {178, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_2_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 30}, {178, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -13}</string>
+			<key>spriteSize</key>
+			<string>{178, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 401}, {178, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_3_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 30}, {178, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{178, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{843, 2}, {178, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_4_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 30}, {178, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{178, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{663, 2}, {178, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_zui_5_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 30}, {178, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -15}</string>
+			<key>spriteSize</key>
+			<string>{178, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{220, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 319}, {178, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_shenti.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 6}, {262, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{262, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{274, 269}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 223}, {262, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_weiba.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {63, 127}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{63, 127}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 127}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 108}, {63, 127}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yankuang.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {148, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{148, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 240}, {148, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>mao8_yanren.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{12, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 486}, {12, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

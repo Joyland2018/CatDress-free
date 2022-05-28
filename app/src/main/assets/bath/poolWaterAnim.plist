@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>behindWater_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{214, 188}, {601, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -62}</string>
+			<key>spriteSize</key>
+			<string>{601, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 672}, {601, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>behindWater_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{191, 152}, {651, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -43}</string>
+			<key>spriteSize</key>
+			<string>{651, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 548}, {651, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>behindWater_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{150, 118}, {731, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -27}</string>
+			<key>spriteSize</key>
+			<string>{731, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 300}, {731, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>behindWater_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{113, 79}, {807, 198}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -8}</string>
+			<key>spriteSize</key>
+			<string>{807, 198}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 100}, {807, 198}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>frontWater_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{214, 235}, {601, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -85}</string>
+			<key>spriteSize</key>
+			<string>{601, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 828}, {601, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>frontWater_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{191, 213}, {651, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -75}</string>
+			<key>spriteSize</key>
+			<string>{651, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 762}, {651, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>frontWater_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{150, 190}, {731, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -63}</string>
+			<key>spriteSize</key>
+			<string>{731, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 460}, {731, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>frontWater_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{110, 179}, {813, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -57}</string>
+			<key>spriteSize</key>
+			<string>{813, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{1037, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {813, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>
