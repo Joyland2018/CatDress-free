@@ -6,8 +6,8 @@ android {
         applicationId "cat.game.collector.kitty.free.pet"
         minSdkVersion 29
         targetSdkVersion 31
-        versionCode  7
-        versionName "1.7"
+        versionCode  8
+        versionName "1.8"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
 //            cmake {D:\NDKJ\android-ndk-r17c-windows-x86_64\
