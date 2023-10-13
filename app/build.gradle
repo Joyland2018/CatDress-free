@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdkVersion 31
+    compileSdkVersion 33
     buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "cat.game.collector.kitty.free.pet"
         minSdkVersion 29
-        targetSdkVersion 31
-        versionCode  11
-        versionName "2.1"
+        targetSdkVersion 33
+        versionCode  12
+        versionName "2.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
 //            cmake {D:\NDKJ\android-ndk-r17c-windows-x86_64\
@@ -64,6 +64,8 @@ dependencies {
 //    implementation 'com.google.ads.mediation:unity:3.7.5.0'
     implementation "com.mixpanel.android:mixpanel-android:6.+"
     implementation "com.google.guava:guava:31.0.1-android"
+    implementation 'com.google.android.gms:play-services-base:18.0.1'
+    implementation 'com.google.android.gms:play-services-tasks:18.0.1'
 
 //    implementation "com.google.firebase:firebase-messaging:21.0.1"
 //    implementation 'com.google.firebase:firebase-analytics:18.0.2'
